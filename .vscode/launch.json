@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Design Pattern_5190942f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingletonPatternDemo",
+            "request": "launch",
+            "mainClass": "main.java.cput.gof.SingletonPatternDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AbstractFactoryPatternDemo",
+            "request": "launch",
+            "mainClass": "main.java.cput.gof.AbstractFactoryPatternDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactoryPatternDemo",
+            "request": "launch",
+            "mainClass": "cput.gof.FactoryPatternDemo",
+            "projectName": "factory"
+        }
+    ]
+}
