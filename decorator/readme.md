@@ -16,7 +16,7 @@ DecoratorPatternDemo, our demo class will use RedShapeDecorator to decorate Shap
 Decorator Pattern UML Diagram
 Step 1
 Create an interface.
-
+```java
 Shape.java
 
 public interface Shape {

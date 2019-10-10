@@ -14,7 +14,7 @@ FlyWeightPatternDemo, our demo class, will use ShapeFactory to get a Shape objec
 Flyweight Pattern UML Diagram
 Step 1
 Create an interface.
-
+```java
 Shape.java
 
 public interface Shape {

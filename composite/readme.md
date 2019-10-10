@@ -12,7 +12,7 @@ We have a class Employee which acts as composite pattern actor class. CompositeP
 Composite Pattern UML Diagram
 Step 1
 Create Employee class having list of Employee objects.
-
+```java
 Employee.java
 
 import java.util.ArrayList;
@@ -99,3 +99,4 @@ Employee :[ Name : Rob, dept : Sales, salary :10000 ]
 Employee :[ Name : Michel, dept : Head Marketing, salary :20000 ]
 Employee :[ Name : Laura, dept : Marketing, salary :10000 ]
 Employee :[ Name : Bob, dept : Marketing, salary :10000 ]
+```

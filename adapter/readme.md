@@ -18,7 +18,7 @@ AudioPlayer uses the adapter class MediaAdapter passing it the desired audio typ
 Adapter Pattern UML Diagram
 Step 1
 Create interfaces for Media Player and Advanced Media Player.
-
+```java
 MediaPlayer.java
 
 public interface MediaPlayer {
@@ -139,3 +139,4 @@ Playing mp3 file. Name: beyond the horizon.mp3
 Playing mp4 file. Name: alone.mp4
 Playing vlc file. Name: far far away.vlc
 Invalid media. avi format not supported
+```

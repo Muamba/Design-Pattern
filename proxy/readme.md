@@ -12,7 +12,7 @@ ProxyPatternDemo, our demo class, will use ProxyImage to get an Image object to 
 Proxy Pattern UML Diagram
 Step 1
 Create an interface.
-
+```java
 Image.java
 
 public interface Image {

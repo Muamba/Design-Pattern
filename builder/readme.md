@@ -14,7 +14,7 @@ We then create a Meal class having ArrayList of Item and a MealBuilder to build 
 ￼
 Step 1
 Create an interface Item representing food item and packing.
-
+```java
 Item.java
 
 public interface Item {
@@ -222,3 +222,4 @@ Non-Veg Meal
 Item : Chicken Burger, Packing : Wrapper, Price : 50.5
 Item : Pepsi, Packing : Bottle, Price : 35.0
 Total Cost: 85.5
+```

@@ -8,7 +8,7 @@ We're going to create a Person object, Criteria interface and concrete classes i
 ￼
 Step 1
 Create a class on which criteria is to be applied.
-
+```java
 Person.java
 
 public class Person {

@@ -1,3 +1,5 @@
+package cput.gof;
+
 public abstract class AbstractLogger {
     public static int INFO = 1;
     public static int DEBUG = 2;

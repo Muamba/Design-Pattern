@@ -13,7 +13,7 @@ We're going to create an abstract class Shape and concrete classes extending the
 PrototypPatternDemo, our demo class will use ShapeCache class to get a Shape object.
 
 Prototype Pattern UML Diagram
-
+```java
 Step 1
 Create an abstract class implementing Clonable interface.
 
