@@ -1,3 +1,6 @@
+package cput.gof;
+
+import java.util.ArrayList;
 
 public class Broker {
     private List<Order> orderList = new ArrayList<Order>(); 
