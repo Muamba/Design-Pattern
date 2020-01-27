@@ -1,3 +1,5 @@
+package cput.gof;
+
 import java.util.Hashtable;
 
 public class ShapeCache {

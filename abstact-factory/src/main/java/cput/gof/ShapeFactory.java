@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class ShapeFactory extends AbstractFactory {
     @Override
     public Shape getShape(String shapeType){    

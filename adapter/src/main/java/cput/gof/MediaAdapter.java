@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class MediaAdapter implements MediaPlayer {
 
     AdvancedMediaPlayer advancedMusicPlayer;

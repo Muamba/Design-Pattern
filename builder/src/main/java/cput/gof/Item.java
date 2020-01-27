@@ -1,4 +1,6 @@
-public interface Item{
+package cput.gof;
+
+public interface Item {
     public String name();
     public Packing packing();
     public float price();

@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class Square extends Shape {
 
     public Square(){

@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class CommandPatternDemo {
     public static void main(String[] args) {
        Stock abcStock = new Stock();

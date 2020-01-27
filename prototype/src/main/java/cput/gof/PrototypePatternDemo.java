@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class PrototypePatternDemo {
     public static void main(String[] args) {
        ShapeCache.loadCache();

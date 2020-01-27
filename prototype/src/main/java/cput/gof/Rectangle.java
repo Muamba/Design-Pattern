@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class Rectangle extends Shape {
 
     public Rectangle(){

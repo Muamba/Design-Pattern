@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class ChickenBurger extends Burger {
 
     @Override

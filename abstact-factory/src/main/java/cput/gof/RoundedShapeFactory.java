@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class RoundedShapeFactory extends AbstractFactory {
     @Override
     public Shape getShape(String shapeType){    

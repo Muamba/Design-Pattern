@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class CompositePatternDemo {
     public static void main(String[] args) {
     

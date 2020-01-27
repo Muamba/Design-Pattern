@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class NameRepository implements Container {
     public String names[] = {"Robert" , "John" ,"Julie" , "Lora"};
  

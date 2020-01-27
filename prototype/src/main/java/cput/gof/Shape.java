@@ -1,3 +1,5 @@
+package cput.gof;
+
 public abstract class Shape implements Cloneable {
    
     private String id;

@@ -1,4 +1,6 @@
-public class Mp4Player implements AdvancedMediaPlayer{
+package cput.gof;
+
+public class Mp4Player implements AdvancedMediaPlayer {
 
     @Override
     public void playVlc(String fileName) {

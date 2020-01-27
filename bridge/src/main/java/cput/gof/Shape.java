@@ -1,4 +1,4 @@
-Shape.java
+package cput.gof;
 
 public abstract class Shape {
    protected DrawAPI drawAPI;

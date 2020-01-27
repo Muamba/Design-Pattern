@@ -1,3 +1,5 @@
+package cput.gof;
+
 public abstract class ColdDrink implements Item {
 
 	@Override

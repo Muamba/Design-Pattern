@@ -1,4 +1,6 @@
-public class ProxyImage implements Image{
+package cput.gof;
+
+public class ProxyImage implements Image {
 
     private RealImage realImage;
     private String fileName;

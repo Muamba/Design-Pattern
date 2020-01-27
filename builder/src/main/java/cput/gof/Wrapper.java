@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class Wrapper implements Packing {
     @Override
     public String pack() {

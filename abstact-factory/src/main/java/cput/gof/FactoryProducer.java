@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class FactoryProducer {
     public static AbstractFactory getFactory(boolean rounded){   
        if(rounded){

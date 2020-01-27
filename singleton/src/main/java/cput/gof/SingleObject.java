@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class SingleObject {
 
     //create an object of SingleObject

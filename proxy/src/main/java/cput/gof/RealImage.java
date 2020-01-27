@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class RealImage implements Image {
 
     private String fileName;

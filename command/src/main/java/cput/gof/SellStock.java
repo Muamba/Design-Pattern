@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class SellStock implements Order {
     private Stock abcStock;
  

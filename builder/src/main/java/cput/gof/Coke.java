@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class Coke extends ColdDrink {
 
     @Override

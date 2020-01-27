@@ -1,4 +1,4 @@
-Pepsi.java
+package cput.gof;
 
 public class Pepsi extends ColdDrink {
 

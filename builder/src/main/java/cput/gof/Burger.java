@@ -1,4 +1,4 @@
-
+package cput.gof;
 
 public abstract class Burger implements Item {
     @Override

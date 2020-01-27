@@ -1,3 +1,5 @@
+package cput.gof;
+
 public class AudioPlayer implements MediaPlayer {
     MediaAdapter mediaAdapter; 
  
